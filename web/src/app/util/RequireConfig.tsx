@@ -139,7 +139,7 @@ export type RequireConfigProps = {
 
 export default function RequireConfig(
   props: RequireConfigProps,
-): JSX.Element | null {
+): React.ReactNode | null {
   const {
     configID,
     test = isTrue,
