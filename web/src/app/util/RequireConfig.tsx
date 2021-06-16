@@ -132,7 +132,7 @@ export type RequireConfigProps = {
   test?: (x: Value) => boolean
 
   // react element to render if checks failed
-  else?: JSX.Element
+  else?: React.ReactNode
   isAdmin?: boolean
   children: React.ReactChildren
 }

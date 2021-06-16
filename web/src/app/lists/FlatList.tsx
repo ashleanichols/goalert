@@ -87,7 +87,7 @@ export interface FlatListProps extends ListProps {
   items: FlatListListItem[]
 
   // header elements will be displayed at the top of the list.
-  headerNote?: string // left-aligned
+  headerNote?: React.ReactNode // left-aligned
   headerAction?: JSX.Element // right-aligned
 
   // emptyMessage will be displayed if there are no items in the list.
