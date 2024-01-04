@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ashleanichols/goalert is built on the following main stack:
+
 - [GitHub](https://github.com/) – Code Collaboration & Version Control
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Golang](http://golang.org/) – Languages
@@ -36,11 +37,13 @@ ashleanichols/goalert is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ashleanichols/goalert is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg' alt='GitHub'/> [GitHub](https://github.com/) – Code Collaboration & Version Control
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
@@ -75,14 +78,15 @@ ashleanichols/goalert is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ashleanichols/goalert](https://github.com/ashleanichols/goalert)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|100<br/>Tools used|11/09/23 <br/>Report generated|
+|101<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -404,9 +408,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (64)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (65)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (64)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (65)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -443,6 +447,7 @@ Full tech stack [here](/techstack.md)
 |[classnames](https://www.npmjs.com/classnames)|v2.3.1|06/21/21|dependabot[bot] |MIT|N/A|
 |[connected-react-router](https://www.npmjs.com/connected-react-router)|v6.9.1|07/08/21|dependabot[bot] |MIT|N/A|
 |[copy-webpack-plugin](https://www.npmjs.com/copy-webpack-plugin)|v9.0.1|07/06/21|dependabot[bot] |MIT|N/A|
+|[cssnano](https://www.npmjs.com/cssnano)|v5.0.6|06/21/21|dependabot[bot] |MIT|N/A|
 |[diff](https://www.npmjs.com/diff)|v5.0.0|07/09/21|dependabot[bot] |BSD-3-Clause|N/A|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.3.0|07/09/21|dependabot[bot] |MIT|N/A|
 |[eslint-config-standard](https://www.npmjs.com/eslint-config-standard)|v16.0.3|07/09/21|dependabot[bot] |MIT|N/A|
@@ -478,4 +483,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
