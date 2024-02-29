@@ -2,7 +2,7 @@ repo_name: ashleanichols/goalert
 report_id: bfa1eb955d07fa4499757adda84560df
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:13:50+00:00'
+timestamp: '2024-02-29T18:17:03+00:00'
 requested_by: KatieMSB
 provider: github
 branch: master
@@ -311,7 +311,7 @@ tools:
   last_updated_by: Nathaniel Caza
   last_updated_on: 2021-05-18 15:14:04.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.3.2
   license: MIT
